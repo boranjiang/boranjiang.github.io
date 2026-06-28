@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#f7fafc"/>
+  <text x="72" y="82" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">混淆矩阵结果图</text>
+  <g transform="translate(230 150)">
+    <rect width="160" height="160" fill="#2454d6"/>
+    <rect x="170" width="160" height="160" fill="#dfe8ff"/>
+    <rect x="340" width="160" height="160" fill="#eef3f8"/>
+    <rect y="170" width="160" height="160" fill="#e8f7f5"/>
+    <rect x="170" y="170" width="160" height="160" fill="#0b8a83"/>
+    <rect x="340" y="170" width="160" height="160" fill="#dfeeea"/>
+    <rect y="340" width="160" height="160" fill="#fff4e0"/>
+    <rect x="170" y="340" width="160" height="160" fill="#f5ead0"/>
+    <rect x="340" y="340" width="160" height="160" fill="#b8860b"/>
+    <text x="72" y="92" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">A</text>
+    <text x="242" y="262" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">B</text>
+    <text x="412" y="432" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#ffffff">C</text>
+  </g>
+  <text x="230" y="698" font-family="Arial, sans-serif" font-size="21" fill="#647184">用于解释分类结果，而不是只展示准确率</text>
+</svg>

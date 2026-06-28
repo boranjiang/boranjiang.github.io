@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#ffffff"/>
+  <rect x="76" y="70" width="848" height="610" rx="20" fill="#f7fafc" stroke="#d9e5ef"/>
+  <text x="120" y="138" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">项目汇报页</text>
+  <text x="120" y="184" font-family="Arial, sans-serif" font-size="22" fill="#647184">选题 · 玩法 · 展示节奏</text>
+  <rect x="120" y="246" width="220" height="250" rx="18" fill="#fff4e0"/>
+  <rect x="390" y="246" width="220" height="250" rx="18" fill="#e9f1ff"/>
+  <rect x="660" y="246" width="220" height="250" rx="18" fill="#e8f7f5"/>
+  <text x="166" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#b8860b">痛点</text>
+  <text x="436" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2454d6">玩法</text>
+  <text x="706" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0b8a83">产出</text>
+  <text x="120" y="594" font-family="Arial, sans-serif" font-size="21" fill="#647184">替换为真实 PPT 截图后，页面会保持同样展示比例</text>
+</svg>

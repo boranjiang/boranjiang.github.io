@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#ffffff"/>
+  <text x="72" y="82" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">功能优先级矩阵</text>
+  <rect x="130" y="142" width="720" height="470" rx="18" fill="#f7fafc" stroke="#d9e5ef"/>
+  <line x1="490" y1="142" x2="490" y2="612" stroke="#d9e5ef" stroke-width="4"/>
+  <line x1="130" y1="377" x2="850" y2="377" stroke="#d9e5ef" stroke-width="4"/>
+  <text x="158" y="194" font-family="Arial, sans-serif" font-size="20" fill="#647184">低成本</text>
+  <text x="710" y="194" font-family="Arial, sans-serif" font-size="20" fill="#647184">高价值</text>
+  <circle cx="650" cy="268" r="44" fill="#2454d6"/>
+  <text x="622" y="276" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">认证</text>
+  <circle cx="585" cy="480" r="42" fill="#0b8a83"/>
+  <text x="557" y="488" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">担保</text>
+  <circle cx="325" cy="302" r="40" fill="#b8860b"/>
+  <text x="297" y="310" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">标签</text>
+  <circle cx="382" cy="510" r="38" fill="#d95c43"/>
+  <text x="354" y="518" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">配送</text>
+</svg>

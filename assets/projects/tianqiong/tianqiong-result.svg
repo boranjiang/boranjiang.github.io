@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#f7fafc"/>
+  <text x="76" y="82" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">链路恢复结果图</text>
+  <rect x="90" y="130" width="820" height="470" rx="18" fill="#ffffff" stroke="#d9e5ef"/>
+  <line x1="150" y1="540" x2="850" y2="540" stroke="#9aabba" stroke-width="3"/>
+  <line x1="150" y1="190" x2="150" y2="540" stroke="#9aabba" stroke-width="3"/>
+  <polyline points="160,300 245,302 330,314 415,438 500,330 585,292 670,282 755,276 840,270" fill="none" stroke="#2454d6" stroke-width="8" stroke-linecap="round"/>
+  <polyline points="160,410 245,408 330,416 415,490 500,424 585,396 670,382 755,372 840,364" fill="none" stroke="#0b8a83" stroke-width="8" stroke-linecap="round"/>
+  <rect x="392" y="202" width="86" height="286" rx="10" fill="#fff0ec" opacity="0.8"/>
+  <text x="374" y="182" font-family="Arial, sans-serif" font-size="18" fill="#d95c43">故障窗口</text>
+  <circle cx="730" cy="120" r="8" fill="#2454d6"/>
+  <text x="748" y="126" font-family="Arial, sans-serif" font-size="18" fill="#647184">主链路</text>
+  <circle cx="730" cy="152" r="8" fill="#0b8a83"/>
+  <text x="748" y="158" font-family="Arial, sans-serif" font-size="18" fill="#647184">备用路径</text>
+  <text x="90" y="660" font-family="Arial, sans-serif" font-size="21" fill="#647184">结果图占位，适合替换为仿真曲线或指标对比图</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f5f8fb"/>
+  <rect x="68" y="58" width="1064" height="560" rx="24" fill="#ffffff" stroke="#d9e5ef"/>
+  <text x="118" y="145" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#17202a">高校二手交易专区化调研</text>
+  <text x="118" y="191" font-family="Arial, sans-serif" font-size="24" fill="#647184">需求验证 · 竞品观察 · 盈利空间假设</text>
+  <rect x="118" y="260" width="220" height="210" rx="18" fill="#e9f1ff"/>
+  <rect x="380" y="260" width="220" height="210" rx="18" fill="#e8f7f5"/>
+  <rect x="642" y="260" width="220" height="210" rx="18" fill="#fff4e0"/>
+  <rect x="904" y="260" width="110" height="210" rx="18" fill="#fff0ec"/>
+  <text x="156" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2454d6">需求</text>
+  <text x="418" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0b8a83">信任</text>
+  <text x="680" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#b8860b">效率</text>
+  <text x="934" y="374" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#d95c43">商业</text>
+</svg>

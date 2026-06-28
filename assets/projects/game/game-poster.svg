@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#fbf7f0"/>
+  <rect x="70" y="58" width="1060" height="559" rx="26" fill="#ffffff" stroke="#eadfcd"/>
+  <text x="118" y="160" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#17202a">我的外卖被偷了</text>
+  <text x="122" y="208" font-family="Arial, sans-serif" font-size="24" fill="#647184">校园轻量互动小游戏 · 海报占位图</text>
+  <rect x="122" y="278" width="280" height="224" rx="26" fill="#fff4e0"/>
+  <rect x="172" y="328" width="180" height="116" rx="18" fill="#d95c43"/>
+  <rect x="204" y="300" width="116" height="58" rx="18" fill="#f2b169"/>
+  <circle cx="262" cy="386" r="22" fill="#ffffff"/>
+  <path d="M538 330 h420" stroke="#d9e5ef" stroke-width="18" stroke-linecap="round"/>
+  <path d="M538 390 h330" stroke="#d9e5ef" stroke-width="18" stroke-linecap="round"/>
+  <path d="M538 450 h250" stroke="#d9e5ef" stroke-width="18" stroke-linecap="round"/>
+  <text x="538" y="292" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#2454d6">从生活痛点出发的玩法设计</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#ffffff"/>
+  <text x="72" y="82" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">问卷数据摘要</text>
+  <rect x="92" y="150" width="190" height="410" rx="16" fill="#e9f1ff"/>
+  <rect x="328" y="220" width="190" height="340" rx="16" fill="#e8f7f5"/>
+  <rect x="564" y="290" width="190" height="270" rx="16" fill="#fff4e0"/>
+  <rect x="800" y="360" width="110" height="200" rx="16" fill="#fff0ec"/>
+  <text x="132" y="616" font-family="Arial, sans-serif" font-size="20" fill="#647184">交易频次</text>
+  <text x="368" y="616" font-family="Arial, sans-serif" font-size="20" fill="#647184">信任顾虑</text>
+  <text x="604" y="616" font-family="Arial, sans-serif" font-size="20" fill="#647184">校内偏好</text>
+  <text x="796" y="616" font-family="Arial, sans-serif" font-size="20" fill="#647184">付费意愿</text>
+</svg>

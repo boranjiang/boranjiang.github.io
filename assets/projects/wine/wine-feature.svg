@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#ffffff"/>
+  <text x="72" y="82" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">特征分布可视化</text>
+  <rect x="84" y="144" width="380" height="230" rx="18" fill="#f7fafc" stroke="#d9e5ef"/>
+  <rect x="536" y="144" width="380" height="230" rx="18" fill="#f7fafc" stroke="#d9e5ef"/>
+  <rect x="84" y="430" width="380" height="230" rx="18" fill="#f7fafc" stroke="#d9e5ef"/>
+  <rect x="536" y="430" width="380" height="230" rx="18" fill="#f7fafc" stroke="#d9e5ef"/>
+  <g fill="none" stroke-width="6" stroke-linecap="round">
+    <path d="M126 302 C178 210 240 210 300 304 C348 372 392 284 426 248" stroke="#2454d6"/>
+    <path d="M578 306 C636 260 692 198 764 288 C810 346 846 304 878 250" stroke="#0b8a83"/>
+    <path d="M126 590 C194 498 256 526 314 574 C364 616 396 548 428 502" stroke="#b8860b"/>
+    <path d="M578 598 C620 532 690 510 742 552 C794 594 834 556 878 502" stroke="#d95c43"/>
+  </g>
+</svg>

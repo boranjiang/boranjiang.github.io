@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#f7fafc"/>
+  <text x="72" y="82" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">高校专区商业路径图</text>
+  <circle cx="500" cy="374" r="112" fill="#e9f1ff" stroke="#bdd0ff" stroke-width="4"/>
+  <text x="434" y="366" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#2454d6">高校专区</text>
+  <text x="452" y="402" font-family="Arial, sans-serif" font-size="18" fill="#647184">信任 + 效率</text>
+  <g font-family="Arial, sans-serif" font-size="20" font-weight="700">
+    <rect x="80" y="154" width="210" height="88" rx="16" fill="#ffffff" stroke="#d9e5ef"/>
+    <text x="129" y="207" fill="#17202a">认证入口</text>
+    <rect x="710" y="154" width="210" height="88" rx="16" fill="#ffffff" stroke="#d9e5ef"/>
+    <text x="759" y="207" fill="#17202a">置顶曝光</text>
+    <rect x="80" y="506" width="210" height="88" rx="16" fill="#ffffff" stroke="#d9e5ef"/>
+    <text x="129" y="559" fill="#17202a">校内物流</text>
+    <rect x="710" y="506" width="210" height="88" rx="16" fill="#ffffff" stroke="#d9e5ef"/>
+    <text x="759" y="559" fill="#17202a">品牌合作</text>
+  </g>
+  <g stroke="#8da1b5" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M290 198 C360 220 410 260 450 302"/>
+    <path d="M710 198 C640 220 590 260 550 302"/>
+    <path d="M290 550 C360 528 410 488 450 446"/>
+    <path d="M710 550 C640 528 590 488 550 446"/>
+  </g>
+</svg>

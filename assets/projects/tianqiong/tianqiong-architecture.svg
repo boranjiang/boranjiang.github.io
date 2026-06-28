@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#f7fafc"/>
+  <text x="70" y="80" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#17202a">无人机通信组网流程图</text>
+  <g font-family="Arial, sans-serif" font-size="22" font-weight="700">
+    <rect x="80" y="150" width="220" height="92" rx="18" fill="#e9f1ff" stroke="#bdd0ff"/>
+    <text x="128" y="205" fill="#2454d6">任务区域识别</text>
+    <rect x="390" y="150" width="220" height="92" rx="18" fill="#e8f7f5" stroke="#bce4df"/>
+    <text x="438" y="205" fill="#0b8a83">节点部署规划</text>
+    <rect x="700" y="150" width="220" height="92" rx="18" fill="#fff4e0" stroke="#ead7ad"/>
+    <text x="748" y="205" fill="#b8860b">链路质量监测</text>
+    <rect x="235" y="360" width="220" height="92" rx="18" fill="#fff0ec" stroke="#f1c8bd"/>
+    <text x="283" y="415" fill="#d95c43">异常节点感知</text>
+    <rect x="545" y="360" width="220" height="92" rx="18" fill="#eef3f8" stroke="#d9e5ef"/>
+    <text x="593" y="415" fill="#314256">备用路径切换</text>
+  </g>
+  <g stroke="#8da1b5" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M300 196 H390"/>
+    <path d="M610 196 H700"/>
+    <path d="M810 242 C790 320 730 350 655 360"/>
+    <path d="M545 406 H455"/>
+    <path d="M345 360 C310 312 250 270 190 242"/>
+  </g>
+  <text x="70" y="654" font-family="Arial, sans-serif" font-size="21" fill="#647184">用于说明“部署、监测、恢复”的核心路径</text>
+</svg>
